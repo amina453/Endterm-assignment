@@ -1,0 +1,11 @@
+{
+  "name": "endterm-assignment",
+  "version": "1.0.0",
+  "description": "Endterm assignment to the WEB technologies course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amina Umbeteeva\u001b[D\u001b[D\u001b[Dy\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[Deva",
+  "license": "ISC"
+}
